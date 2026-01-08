@@ -19,7 +19,7 @@ export default function App() {
 
   return (
     <>
-      <p>Is this text?</p>
+      <p>Is this text? This is a test</p>
       <button onClick = {handleClick2}>toggle</button>
       <button onClick = {handleClick}>{x}</button>
     </>
